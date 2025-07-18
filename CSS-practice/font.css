@@ -1,0 +1,17 @@
+#tahoma{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    font-size: 29px;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+#sales{
+    color: red;
+    font-size: 20px;
+    margin-top: 2px;
+    font-weight: bold;
+}

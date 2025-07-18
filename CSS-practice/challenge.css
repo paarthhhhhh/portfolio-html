@@ -1,0 +1,67 @@
+body{
+    font-family: Arial;
+}
+#new{
+    color: rgb(245, 99, 0);;
+    text-align: center;
+    margin-bottom: 8px;
+    font-weight: bold ;
+}
+#mac{
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+#slogan{
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    margin: 4px;
+    margin-bottom: 10px;
+}
+#price{
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: 0px;
+}
+#buy{
+    text-align: center;
+    display: block;
+    margin-top: 5px;
+}
+button{
+    background-color: rgb(0, 113, 227);
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 17px;
+    padding-right: 14px;
+    padding-left: 14px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    cursor: pointer;
+}
+button:hover{
+    opacity: 0.75;
+}
+
+
+#big{
+    font-size: 30px;
+    margin: 0%;
+}
+#gray{
+    color: gray;
+    font-size: 15px;
+}
+#green{
+    font-size: 15px;
+    color: #04b544;
+    margin-top: 10px;
+}
+#red{
+    color: #f4737c;
+    font-size: 15px;
+}
