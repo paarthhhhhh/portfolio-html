@@ -1,0 +1,95 @@
+#btn{
+    display: block;
+    text-align: center;
+}
+#search{
+    border-radius: 17px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    width: 300px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+    border: none;
+    padding-left: 10px;
+    margin-bottom: 50px;
+
+}
+#google{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 14px;
+}
+input{
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(163, 163, 163);
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 10px;
+    width: 120px;
+}
+#block{
+    display: block;
+    margin-top: 15px;
+    width: 260px;
+}
+#signup{
+    background-color: #1a8ae7;
+    color: white;
+    width: 277px;
+    border: none;
+    margin-top: 15px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 8px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+p{
+    font-family: arial;
+    font-size: 40px;
+    margin-bottom: 25px;
+}
+#pickup{
+    display: block;
+    background-color: rgba(128, 128, 128, 0.227);
+    border-radius: 0px;
+    width: 400px;
+    border: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    margin-bottom: 10px;
+}
+#destination{
+    display: block;
+    background-color: rgba(128, 128, 128, 0.227);
+    border-radius: 0px;
+    width: 400px;
+    border: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    margin-bottom: 25px;
+}
+#req{
+    background-color: black;
+    color: white;
+    border: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-right: 10px;
+}
+#schedule{
+    background-color: rgb(240, 240, 240);
+    color: rgb(0, 0, 0);
+    border: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-right: 10px;
+}
