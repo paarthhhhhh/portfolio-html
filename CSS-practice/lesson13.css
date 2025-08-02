@@ -1,0 +1,41 @@
+#a{
+    display: flex;
+    height: 50px;
+    margin-bottom: 70px;
+}
+#a1{
+    background-color: lightpink;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#a2{
+    background-color: lightblue;
+    width: 200px;
+}
+#a11{
+    background-color: rgb(21, 20, 20);
+    color: rgb(255, 255, 255);
+}
+#b{
+    display: flex;
+    height: 50px;
+    margin-bottom: 70px;
+}
+#b1{
+    background-color: lightpink;
+    width: 100px;
+}
+#b2{
+    background-color: lightblue;
+    width: 200px;
+}
+#row{
+    display: flex;
+    justify-content: space-between;
+}
+#b22{
+    background-color: black;
+    color: ghostwhite;
+}
